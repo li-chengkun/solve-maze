@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/control_left.jpg</file>
+        <file>img/control_right.jpg</file>
+        <file>img/df.png</file>
+        <file>img/mainwindow.jpg</file>
+        <file>img/road.jpg</file>
+        <file>img/target.jpg</file>
+        <file>img/wall.jpg</file>
+        <file>img/BG.jpg</file>
+    </qresource>
+</RCC>
